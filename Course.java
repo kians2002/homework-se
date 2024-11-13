@@ -2,7 +2,7 @@ public class Course {
     private int id;
     private String name;
 
-    public int getID() {
+    public int getID()
         return id;
     }
 
