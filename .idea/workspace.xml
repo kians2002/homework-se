@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9e0fdec-3b64-47d4-ae4d-f2560eb263b9" name="Changes" comment="homework 3">
+      <change beforePath="$PROJECT_DIR$/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/Course.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Class" />
+        <option value="Test" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="KianShahroudi" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kians2002&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kians2002/homework-se.git&quot;,
+    &quot;accountId&quot;: &quot;8a59e974-1e45-42e6-a3fb-7deb15fae5a6&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;kians2002&quot;,
+    &quot;repository&quot;: &quot;homework-se&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2o8d0rUPgKgbYHG9Mi30UbbGGCq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "DefaultPlantUmlFileTemplate": "UML Class",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.ExerciseGroupManager.executor": "Run",
+    "JUnit.ExerciseGroupManager.testEdgeCaseAvailableGroupsZero.executor": "Run",
+    "JUnit.ExerciseGroupManager.testEdgeCaseGroupSizeZero.executor": "Run",
+    "JUnit.ExerciseGroupManager.testEdgeCaseTotalStudentsZero.executor": "Run",
+    "JUnit.ExerciseGroupManager.testNormalCaseEvenDistribution.executor": "Run",
+    "JUnit.ExerciseGroupManager.testNormalCaseUnevenDistribution.executor": "Run",
+    "JUnit.ExerciseGroupManagerTest.testCheckGroupCapacities_NormalCaseEqualDistribution.executor": "Run",
+    "JUnit.ExerciseGroupManagerTest.testCheckGroupCapacities_NormalCaseUnevenDistribution.executor": "Run",
+    "JUnit.ExerciseGroupManagerTest.testCheckGroupCapacities_TotalStudentsZero.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "KianShahroudi",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ExerciseGroupManagerTest.testCheckGroupCapacities_NormalCaseUnevenDistribution">
+    <configuration name="ExerciseGroupManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework-se" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExerciseGroupManager" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseGroupManagerTest.testCheckGroupCapacities_NormalCaseEqualDistribution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework-se" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExerciseGroupManagerTest" />
+      <option name="METHOD_NAME" value="testCheckGroupCapacities_NormalCaseEqualDistribution" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseGroupManagerTest.testCheckGroupCapacities_NormalCaseUnevenDistribution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework-se" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExerciseGroupManagerTest" />
+      <option name="METHOD_NAME" value="testCheckGroupCapacities_NormalCaseUnevenDistribution" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseGroupManagerTest.testCheckGroupCapacities_TotalStudentsZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework-se" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExerciseGroupManagerTest" />
+      <option name="METHOD_NAME" value="testCheckGroupCapacities_TotalStudentsZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseGroupManager.testNormalCaseUnevenDistribution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework-se" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExerciseGroupManager" />
+      <option name="METHOD_NAME" value="testNormalCaseUnevenDistribution" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExerciseGroupManagerTest.testCheckGroupCapacities_NormalCaseUnevenDistribution" />
+        <item itemvalue="JUnit.ExerciseGroupManagerTest.testCheckGroupCapacities_NormalCaseEqualDistribution" />
+        <item itemvalue="JUnit.ExerciseGroupManagerTest.testCheckGroupCapacities_TotalStudentsZero" />
+        <item itemvalue="JUnit.ExerciseGroupManager" />
+        <item itemvalue="JUnit.ExerciseGroupManager.testNormalCaseUnevenDistribution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9e0fdec-3b64-47d4-ae4d-f2560eb263b9" name="Changes" comment="" />
+      <created>1730254918015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730254918015</updated>
+      <workItem from="1730254919830" duration="842000" />
+      <workItem from="1730852534781" duration="151000" />
+      <workItem from="1730852763162" duration="117000" />
+      <workItem from="1731331509739" duration="1156000" />
+      <workItem from="1731332692029" duration="3701000" />
+      <workItem from="1731451740022" duration="1224000" />
+      <workItem from="1731458444228" duration="3785000" />
+      <workItem from="1731462526005" duration="460000" />
+      <workItem from="1731463002724" duration="892000" />
+      <workItem from="1731463997046" duration="69000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1730255751679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730255751679</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <option name="closed" value="true" />
+      <created>1731335653218</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731335653218</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homework 3">
+      <option name="closed" value="true" />
+      <created>1731461860187</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731461860187</updated>
+    </task>
+    <task id="LOCAL-00004" summary="homework 3">
+      <option name="closed" value="true" />
+      <created>1731461930851</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731461930851</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="KianShahroudi" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="homework 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 3" />
+  </component>
+</project>
