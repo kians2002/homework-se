@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9e0fdec-3b64-47d4-ae4d-f2560eb263b9" name="Changes" comment="homework 3">
-      <change beforePath="$PROJECT_DIR$/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/Course.java" afterDir="false" />
-    </list>
+    <list default="true" id="e9e0fdec-3b64-47d4-ae4d-f2560eb263b9" name="Changes" comment="homework 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +90,7 @@
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "KianShahroudi",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -193,6 +191,7 @@
       <workItem from="1731462526005" duration="460000" />
       <workItem from="1731463002724" duration="892000" />
       <workItem from="1731463997046" duration="69000" />
+      <workItem from="1731465486859" duration="314000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -243,7 +242,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="KianShahroudi" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
