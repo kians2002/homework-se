@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9e0fdec-3b64-47d4-ae4d-f2560eb263b9" name="Changes" comment="homework 3" />
+    <list default="true" id="e9e0fdec-3b64-47d4-ae4d-f2560eb263b9" name="Changes" comment="homework 3">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +79,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "DefaultPlantUmlFileTemplate": "UML Class",
-    "Downloaded.Files.Path.Enabled": "false",
+    "Downloaded.Files.Path.Enabled": "true",
     "JUnit.ExerciseGroupManager.executor": "Run",
     "JUnit.ExerciseGroupManager.testEdgeCaseAvailableGroupsZero.executor": "Run",
     "JUnit.ExerciseGroupManager.testEdgeCaseGroupSizeZero.executor": "Run",
@@ -93,19 +96,27 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kians/IdeaProjects",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.20689656",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.ExerciseGroupManagerTest.testCheckGroupCapacities_NormalCaseUnevenDistribution">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="IdeaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExerciseGroupManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="homework-se" />
       <option name="PACKAGE_NAME" value="" />
@@ -125,7 +136,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciseGroupManagerTest.testCheckGroupCapacities_NormalCaseUnevenDistribution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExerciseGroupManagerTest.testCheckGroupCapacities_NormalCaseUnevenDistribution" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="homework-se" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ExerciseGroupManagerTest" />
@@ -145,23 +156,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciseGroupManager.testNormalCaseUnevenDistribution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="homework-se" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ExerciseGroupManager" />
-      <option name="METHOD_NAME" value="testNormalCaseUnevenDistribution" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.ExerciseGroupManagerTest.testCheckGroupCapacities_NormalCaseUnevenDistribution" />
         <item itemvalue="JUnit.ExerciseGroupManagerTest.testCheckGroupCapacities_NormalCaseEqualDistribution" />
         <item itemvalue="JUnit.ExerciseGroupManagerTest.testCheckGroupCapacities_TotalStudentsZero" />
         <item itemvalue="JUnit.ExerciseGroupManager" />
-        <item itemvalue="JUnit.ExerciseGroupManager.testNormalCaseUnevenDistribution" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +193,7 @@
       <workItem from="1731463002724" duration="892000" />
       <workItem from="1731463997046" duration="69000" />
       <workItem from="1731465486859" duration="314000" />
+      <workItem from="1731468599868" duration="371000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
